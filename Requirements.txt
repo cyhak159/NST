@@ -1,0 +1,19 @@
+# Requirements.txt for Port Scanner App
+
+# Python version
+python>=3.7
+
+# GUI library
+tkinter
+
+# For port scanning
+socket
+
+# For multi-threading
+threading
+
+# For file dialogs
+filedialog
+
+# For operating system functions (e.g., file handling)
+os

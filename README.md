@@ -12,6 +12,6 @@ Before you begin, ensure you have Python 3.x installed on your system.
 
 ## Installation
 
-1. git clone [https://github.com/your-username/port-scanner-tool.git](https://github.com/cyhak159/NST.git)
+1. git clone https://github.com/cyhak159/NST.git
 2. pip install -r Requirements.txt
 3. python NST.py
